@@ -1,4 +1,6 @@
-# 📂︎ Astrbot Plugin Help Typst | 插件菜单(typst实现)
+# 📂︎ AstrBot Plugin Help Typst — 插件菜单（Typst 实现）
+
+**简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md)
 
 <div align="center">
 
